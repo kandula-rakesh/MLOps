@@ -15,7 +15,7 @@ There are 7 independent variables:
 * `writing_score` : score obtained in writing part.
 
 Target variable:
-* `math_score`: score obtained in writing part.
+* `math_score`: score obtained in math part.
 
 Dataset Source Link :
 [https://www.kaggle.com/datasets/spscientist/students-performance-in-exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
@@ -35,7 +35,7 @@ Dataset Source Link :
 
 1. Data Ingestion : 
     * The data is first read as csv during the Data Ingestion phase. 
-    * The data is then divided into training and testing groups and saved as a csv file.
+    * Then data is then divided into training and testing groups and saved as a csv file.
 
 2. Data Transformation : 
     * In this phase a ColumnTransformer Pipeline is created.
