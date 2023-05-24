@@ -2,7 +2,7 @@
 
 ### Introduction About the Data :
 
-The goal is to predict `maths score` of given student (Regression Analysis).
+The goal is to predict `math_score` of given student (Regression Analysis).
 
 There are 7 independent variables:
 
